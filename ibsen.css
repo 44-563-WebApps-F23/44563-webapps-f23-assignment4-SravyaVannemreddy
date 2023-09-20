@@ -1,10 +1,33 @@
 .Mrs_Stockmann {
     color: black;
-    background-color: #5F9EA0; 
+    background-color: hotpink; 
+    width: 8%;
     font-family: "Times New Roman", Times, serif;
   }
   .PeterStockmann {
     color: black;
-    background-color: yellowgreen;
+    background-color: silver;
+    width: 10%;
+    font-family: Georgia, serif;
+  }
+  .direction {
+    color: black;
+    font-size: 12px;
+    width: 20%;
+    background-color:oldlace ;
+    font-family: Georgia, serif;
+  }
+  .direction:hover{
+
+    background-color: slategrey;
+
+    color: navajowhite;
+
+}
+  .speech {
+    color: black;
+    font-size: 13px;
+    width: 40%;
+    background-color: lightblue;
     font-family: Georgia, serif;
   }
