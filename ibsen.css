@@ -1,15 +1,24 @@
 .Mrs_Stockmann {
     color: black;
-    background-color: hotpink; 
-    width: 8%;
+     width: 8%;
     font-family: "Times New Roman", Times, serif;
   }
   .PeterStockmann {
     color: black;
-    background-color: silver;
     width: 10%;
     font-family: Georgia, serif;
   }
+  .Mrs_Stockmann:hover {
+    text-shadow:2px 2px 4px hotpink;
+    cursor: pointer;
+}
+ 
+  .PeterStockmann:hover {
+    text-shadow:2px 2px 4px  silver;
+    cursor: pointer;
+
+  }
+
   .direction {
     color: black;
     font-size: 12px;
@@ -31,3 +40,5 @@
     background-color: lightblue;
     font-family: Georgia, serif;
   }
+  
+ 
