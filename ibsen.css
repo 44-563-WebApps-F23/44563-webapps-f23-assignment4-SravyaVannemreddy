@@ -10,11 +10,13 @@
   }
   .Mrs_Stockmann:hover {
     text-shadow:2px 2px 4px hotpink;
+    border: 2px solid;
     cursor: pointer;
 }
  
   .PeterStockmann:hover {
-    text-shadow:2px 2px 4px  silver;
+    text-shadow:2px 2px 4px  darkmagenta;
+    border: 2px solid;
     cursor: pointer;
 
   }
@@ -40,5 +42,5 @@
     background-color: lightblue;
     font-family: Georgia, serif;
   }
-  
+
  
