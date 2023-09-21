@@ -43,4 +43,11 @@
     font-family: Georgia, serif;
   }
 
- 
+ .navigation{
+  display: flex;
+ }
+ .nav{
+  margin: 15px;
+  padding: 15px;
+  
+ }
